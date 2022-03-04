@@ -1,2 +1,2 @@
-Hi from directory 1!
+Hello from directory 1!
 Making some changes
